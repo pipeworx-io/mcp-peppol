@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/peppol",
   "title": "Peppol",
   "description": "Peppol participant lookup (SML + SMP + Peppol Directory).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/peppol",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-peppol",
